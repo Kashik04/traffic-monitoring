@@ -72,14 +72,6 @@ python producer.py
 streamlit run dashboard.py
 ```
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your Streamlit dashboard here)
-
----
-
 ## 👨‍💻 Author
 
 * **Kashik Kharwal**
@@ -87,7 +79,4 @@ streamlit run dashboard.py
 
 ```
 
----
 
-👉 Do you want me to also generate a **requirements.txt** file for you (so that anyone can install dependencies in one command)?
-```
